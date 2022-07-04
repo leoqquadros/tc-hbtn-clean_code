@@ -12,7 +12,7 @@ public class Name {
 
     // Sem Prefixos
     //A
-    public void deleteUser(Name.User pUser){};
+    public void deleteUser(Name.User User){};
 
     // Evite mapa mental
     //B
